@@ -2,16 +2,20 @@
 
 Nesse projeto é possível fazer o download de qualquer arquivo, utilizando apenas a url do mesmo.
 
-- [Objetivo](#objetivo) - [Tecnologias](#tecnologias) - [Autor](#autor)
+- [Objetivo](#objetivo)
+- [Tecnologias](#tecnologias)
+- [Autor](#autor)
 
-![Gif](/gif.mp4)
+![Gif](/gif-download.gif)
 
 Acesse o site <https://esther-cardoso.github.io/download-file/>
 
 ## Objetivo
+
 O objetivo desse projeto foi aprender mais de javascript. <br/> Aqui eu trabalhei com feth e then.
 
 ## Tecnologias
+
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML
@@ -19,6 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - JavaScript
 
 ## Autor
+
 <a href="https://www.instagram.com/_esther_cardoso/">
  <img src="https://avatars.githubusercontent.com/u/70102263?v=4" width="200px;" alt=""/>
 </a>
